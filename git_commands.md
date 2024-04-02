@@ -99,3 +99,5 @@ git pull
 
 <img title="котейка" alt="котейка" src="cat.png"> 
 
+[ссылка на ШПАРГАЛКУ по GIT  командам](https://proglib.io/p/git-cheatsheet)
+
