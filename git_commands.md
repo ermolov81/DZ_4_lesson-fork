@@ -48,17 +48,8 @@ git commit -am "сообщение"
 ---
 
 ```sh
-git help # справка по всем командам
-git clone
-git status
-git branch
-git checkout
-git merge
-git remote
-git remote add
-git fetch
-git push
-git pull
+
+
 ```
 
 ```sh
@@ -96,6 +87,12 @@ git pull
 > **git clone** – описание
 > **git pull** – описание
 > **git push** – описание
+
+git help # справка по всем командам
+git remote
+git remote add
+git fetch
+
 
 <img title="котейка" alt="котейка" src="cat.png"> 
 
