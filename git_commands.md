@@ -99,5 +99,3 @@ git pull
 
 > **git push** – удалить ветку
 
-<img title="котейка" alt="котейка" src="cat.png"> 
-
