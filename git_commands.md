@@ -106,3 +106,4 @@ git remote add origin git@github.com:vadvad81/111.git
 git branch -M main
 git push -u origin main
 
+добавление инфы с github
