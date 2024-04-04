@@ -98,3 +98,11 @@ git fetch
 
 [ссылка на ШПАРГАЛКУ по GIT  командам](https://proglib.io/p/git-cheatsheet)
 
+
+
+
+…or push an existing repository from the command line
+git remote add origin git@github.com:vadvad81/111.git
+git branch -M main
+git push -u origin main
+
